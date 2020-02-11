@@ -2,7 +2,7 @@
 
 namespace TernaryAndAccess {
     class Program {
-        static void Main(string[] args) {
+        static void Main(string[] args) { 
 
             Console.WriteLine($"Nextid is {Customer.PrintNextId()}");
             //Console.WriteLine($"The cube of 17 is {Program.Cubed(17)}");
